@@ -1,7 +1,7 @@
 # Documentación de API - Librería
 
 ## Información General
-- **Base URL**: http://libreria-app-887967250.sa-east-1.elb.amazonaws.com
+- **Base URL**: [Link swagger](http://libreria-app-887967250.sa-east-1.elb.amazonaws.com/swagger/)
 - **Versión**: 1.0.0
 - **Descripción**: API REST para gestión de librería con MongoDB
 

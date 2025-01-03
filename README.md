@@ -29,7 +29,7 @@ Las credenciales del usuario de prueba son: `usuario: test  contraseña: test`.
 1. Clonar el repositorio:
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/ajtp18/Library.git
 cd libreria
 ```
 
